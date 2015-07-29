@@ -1,0 +1,15 @@
+{
+  "name": "cryptojs-tripledes",
+  "version": "0.0.1",
+  "homepage": "https://github.com/fisch3r/cryptojs-tripledes",
+  "authors": [
+    "Markus Fischer <Markus.Fischer@EXXETA.com>"
+  ],
+  "description": "This is the unmodified tripledes part of the cryptojs google code project",
+  "main": "tripledes.js",
+  "keywords": [
+    "tripledes",
+    "3DES"
+  ],
+  "license": "MIT"
+}
